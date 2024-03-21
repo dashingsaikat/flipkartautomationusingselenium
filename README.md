@@ -1,8 +1,10 @@
-To run this project:
-1. Firstly git clone it in your system.
-2. Open the folder from your Eclipse IDE
-3. Run seperate test cases using Run by Java Application
+-----------------------Automation Testing for Flipkart Website Using Java Selenium------------------------
 
-Added required dependencies in pom.xml to run the Java code using Eclipse IDE.
+First clone the project using git clone
+Open Terminal in your system and write git clone
+Open any IDE like Eclipse IDE and import the file that you have cloned
+Navigate to src/java/test and run the code as Run as->Java Application
+Output will be run as an automated chrome software and done !!!!!!!!!
 
-Thanks !!!!!!!!!!!!!!!
+
+Thanks for the assignment ..........................
